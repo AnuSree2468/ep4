@@ -1,0 +1,1 @@
+The vi command in Git refers to the use of the vi text editor, which is often used for editing commit messages, merging conflicts, or configuring Git. By default, Git uses vi (or a similar text editor, depending on your configuration) to open when you need to write or edit a commit message, resolve conflicts, or edit your Git configuration.
